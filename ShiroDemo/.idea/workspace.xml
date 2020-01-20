@@ -7,21 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="241b54d4-d6f1-41a8-b3b2-624dba564d90" name="Default Changelist" comment="shiro的第一次配置">
-      <change afterPath="$PROJECT_DIR$/../Bank/.idea/Bank.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/dataSources.local.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/dataSources/b38753f7-9252-4355-b5e5-982ae3886906.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/dataSources/b38753f7-9252-4355-b5e5-982ae3886906/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bank/.idea/dictionaries/island.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/Bank.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/bank-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bank/bank-common/src/main/java/cn/bank/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/bank-common/src/main/java/cn/bank/tools/StringToDateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bank/bank-common/src/test/java/cn/bank/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/bank-common/target/classes/cn/bank/App.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/bank-common/target/classes/cn/bank/tools/StringToDateFormat.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Bank/bank-common/target/test-classes/cn/bank/AppTest.class" afterDir="false" />
@@ -318,74 +314,6 @@
       <change afterPath="$PROJECT_DIR$/../MyBatis_Day01/mybatis_dao/target/test-classes/com/guigu/AppTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyBatis_Day01/mybatis_dao/target/test-classes/com/guigu/RoleTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MyBatis_Day01/mybatis_dao/target/test-classes/com/guigu/UserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShiroDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/shiro/common/ShiroRealm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-shiro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/unauthorized.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/classes/applicationContext-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/classes/applicationContext-shiro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/classes/cn/shiro/common/ShiroRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/classes/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/ehcache-core-2.6.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/guice-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/guice-multibindings-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/javax.inject-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/jsp-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-all-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-cache-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-config-core-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-config-ogdl-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-core-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-crypto-cipher-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-crypto-core-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-crypto-hash-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-ehcache-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-event-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-guice-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-lang-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-spring-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/shiro-web-1.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ShiroDemo/unauthorized.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext-shiro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/shiro/common/ShiroRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Singleton_Demo/src/main/java/com/Singleton/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Singleton_Demo/src/main/java/com/Singleton/pojo/CEO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Singleton_Demo/src/main/java/com/Singleton/pojo/CEOTest1.java" afterDir="false" />
@@ -409,7 +337,6 @@
       <change afterPath="$PROJECT_DIR$/../Spring-Frame/MBGDemo/target/test-classes/com/guigu/MBGTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bank_parent/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bank_parent/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank_parent/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bank_parent/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bank_parent/bank_common/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bank_parent/bank_common/src/main/java/com/bank/App.java" afterDir="false" />
@@ -563,7 +490,6 @@
       <change afterPath="$PROJECT_DIR$/../blog/blog-dao/target/classes/com/blog/dao/BlogMapper.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-dao/target/classes/com/blog/dao/BlogMapper.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-dao/target/classes/com/blog/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../blog/blog-dao/target/test-classes/com/blog/AppTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-domain/target/classes/com/blog/App.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-domain/target/classes/com/blog/domain/Blog.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-domain/target/classes/com/blog/domain/BlogExample$Criteria.class" afterDir="false" />
@@ -586,7 +512,6 @@
       <change afterPath="$PROJECT_DIR$/../blog/blog-web/target/classes/com/blog/web/UserController.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-web/target/classes/log4j.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/.idea/$CACHE_FILE$" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/.idea/misc.xml" afterDir="false" />
@@ -596,7 +521,6 @@
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-common/src/main/java/com/emp/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-common/src/test/java/com/emp/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-manager/emp-manager-controller/emp-manager-controller.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-manager/emp-manager-controller/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-manager/emp-manager-controller/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-manager/emp-manager-controller/src/main/webapp/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-manager/emp-manager-dao/emp-manager-dao.iml" afterDir="false" />
@@ -665,7 +589,6 @@
       <change afterPath="$PROJECT_DIR$/../framework/.idea/artifacts/TestWeb_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../framework/.idea/artifacts/Y2_day01_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../framework/.idea/artifacts/Y2_day01_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../framework/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../framework/.idea/dataSources.local.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../framework/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../framework/.idea/framework.iml" afterDir="false" />
@@ -8978,6 +8901,21 @@
       <change afterPath="$PROJECT_DIR$/../webpack-study/node_modules/jquery/src/var/support.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack-study/node_modules/jquery/src/var/toString.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../webpack-study/node_modules/jquery/src/wrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/.idea/$CACHE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/.idea/$CACHE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/.idea/dictionaries/island.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank/.idea/dictionaries/island.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bank_parent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/RedisDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank/.idea/Bank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../emp-parent/emp-partent/emp-manager/emp-manager-controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/src/main/java/cn/redis/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank/bank-common/src/main/java/cn/bank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/src/test/java/cn/redis/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank/bank-common/src/test/java/cn/bank/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/target/test-classes/cn/redis/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/blog-dao/target/test-classes/com/blog/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="a5d76710-7ea3-4316-80cf-b549f4beb105" name="Revert &quot;这是一个测试版本的 Redis-Test&quot;" comment="Revert &quot;这是一个测试版本的 Redis-Test&quot;&#10;                            &#10;                            This reverts commit 4f8a25a0">
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisDemo/src/test/java/cn/redis/RedisTest/Test1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9052,6 +8990,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -9271,22 +9210,46 @@
       <workItem from="1579448574145" duration="99000" />
       <workItem from="1579448689954" duration="2551000" />
       <workItem from="1579451256449" duration="6000" />
-      <workItem from="1579494816856" duration="2470000" />
+      <workItem from="1579494816856" duration="5604000" />
     </task>
+    <task id="LOCAL-00001" summary="shiro的第一次配置">
+      <created>1579527505931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579527505932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shiro的第一次配置" />
     <option name="LAST_COMMIT_MESSAGE" value="shiro的第一次配置" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Project_Structure" timestamp="1578820463017">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1579533810725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578820463017" />
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1579533810725" />
     <state x="638" y="112" width="657" height="816" key="#Tomcat_8.5.29" timestamp="1579449654647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -9299,14 +9262,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578927586250" />
-    <state x="464" y="24" key="CommitChangelistDialog2" timestamp="1579527300217">
+    <state x="464" y="0" key="CommitChangelistDialog2" timestamp="1579533651413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="464" y="24" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579527300217" />
-    <state x="122" y="86" key="DiffContextDialog" timestamp="1579527267578">
+    <state x="464" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579533651413" />
+    <state x="122" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1579527543807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="122" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579527267578" />
+    <state x="122" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579527543807" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1579525891442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -9367,10 +9330,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="340" y="89" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579449065080" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1579526914594">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1579527734028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579526914594" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579527734028" />
     <state x="616" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579494816875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
