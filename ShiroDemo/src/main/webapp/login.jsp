@@ -11,6 +11,13 @@
     <title>登录</title>
 </head>
 <body>
-登录页面
+    <h4>Login Pages</h4>
+    <form action="./shiro/login" method="post">
+        username:<input type="text" name="username"/>
+        <br/>
+        password:<input type="password" name="password">
+        <br/>
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>

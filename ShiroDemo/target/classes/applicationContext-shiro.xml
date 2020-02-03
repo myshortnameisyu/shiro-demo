@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
     <!-- web.xml中shiro的filter对应的bean -->
     <!-- Shiro 的Web过滤器 -->
     <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">
@@ -29,6 +30,7 @@
                 /styles/** = anon
                 <!-- 验证码，可匿名访问 -->
                 /login.jsp = anon
+                /shiro/login = anon
 
                 /** = authc
                 <!-- /** = anon所有url都可以匿名访问 -->
@@ -74,6 +76,18 @@
         <property name="globalSessionTimeout" value="600000"/>
         <!-- 删除失效的session -->
         <property name="deleteInvalidSessions" value="true"/>
+
+<!--        <property name="sessionDAO" ref="sessionDAO"/>-->
+
+        <property name="sessionIdCookieEnabled" value="true"/>
+        <property name="sessionIdCookie" ref="sessionIdCookie"/>
+    </bean>
+
+    <!-- 指定本系统SESSIONID, 默认为: JSESSIONID 问题: 与SERVLET容器名冲突, 如JETTY, TOMCAT 等默认JSESSIONID,
+        当跳出SHIRO SERVLET时如ERROR-PAGE容器会为JSESSIONID重新分配值导致登录会话丢失! -->
+    <bean id="sessionIdCookie" class="org.apache.shiro.web.servlet.SimpleCookie">
+        <constructor-arg name="name" value="ycyintang.session.id"/>
+        <property name="path" value="/"/>
     </bean>
 
     <!-- 自定义form认证过虑器 -->
